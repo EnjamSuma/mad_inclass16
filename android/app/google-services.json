@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "917598800518",
+    "firebase_url": "https://mad-inclass16-science-default-rtdb.firebaseio.com",
+    "project_id": "mad-inclass16-science",
+    "storage_bucket": "mad-inclass16-science.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917598800518:android:afbb594fb8e8b263395f07",
+        "android_client_info": {
+          "package_name": "com.example.mad_inclass16"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCWuXQVznYzsmgQadAJjhnEZKmbkIdyIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
